@@ -1,0 +1,7 @@
+apple
+banana
+orange
+graphes
+mango
+papaya
+lemon

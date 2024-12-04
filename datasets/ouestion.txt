@@ -1,0 +1,3 @@
+this is a simple program to find in python
+to create apython file in text file
+this is text file this is lin eis simple

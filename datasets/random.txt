@@ -1,0 +1,6 @@
+hai
+hello
+set
+collection
+tuple
+line
